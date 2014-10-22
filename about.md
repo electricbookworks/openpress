@@ -11,7 +11,11 @@ Traditionally, publishers have to guess how many books to print, then put the co
 
 Print-on-demand helps, but with POD we never get unit costs down, because there are no economies of scale.
 
-> At Open Press, we pool customers' orders so that everyone's books are printed in one big print run.
+> At Open Press, we pool members' orders so that everyone's books are printed in one big print run.
 {:.shout}
 
 By pooling small orders into big print runs, we reduce unit costs and save everyone money. Open Press is great for schools, colleges, churches, and businesses who need to order multiple copies of books.
+
+## Behind the scenes
+
+The Open Press concept was developed by Mark Horner and team at [Siyavula](http://siyavula.com) and the [Shuttleworth Foundation](http://shuttleworthfoundation.org). It is an [Electric Book Works](http://electricbookworks.com) project.
