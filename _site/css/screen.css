@@ -23,6 +23,7 @@ body {
 	padding: 0 0.3em 0 0.3em;
 }
 #footer {
+	clear: both;
 	border-top: 1px solid #f9f9f9;
 	margin: 2em 0 0 0;
 	padding: 1em 0.3em 2em 0.3em;
@@ -81,6 +82,10 @@ h1, h2, h3, h4, h5, h6 {
 	color: #d9d9d9;
 	text-transform: uppercase;
 	letter-spacing: 0.03em;
+}
+h1 .highlight {
+	color: #69AAC8;
+	font-style: inherit;
 }
 h1 {
 	font-size: 3.5em;
@@ -166,4 +171,17 @@ a.button {
 }
 a.button:hover {
 	background-color: silver;
+}
+
+/*
+ * Images
+ */
+
+p.thumbnail {
+	float: left;
+	margin: 1em 1em 1em 0;
+}
+.thumbnail img {
+	max-width: 8em;
+	height: 6em;
 }
