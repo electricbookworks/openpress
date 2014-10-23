@@ -11,7 +11,7 @@ Great for *schools, colleges, non-profits and businesses*{:.highlight}. Become a
 
 [Join Open Press](terms){:.button}
 
-[![Everything Maths Grade 10 CAPS](/images/Everything+Maths+Grade+10+CAPS.jpg)](http://www.everythingmaths.co.za/)
+[![Everything Maths Grade 10 CAPS](/images/EverythingMathsGrade10CAPS.jpg)](http://www.everythingmaths.co.za/)
 {:.thumbnail}
 
 [![A Fish and a Gift]({{ site.baseurl }}/images/a-fish-and-a-gift_front-cover_20140708.jpg)](http://bookdash.org/a-fish-and-a-gift-by-jesse-breytenbach-liesl-jobson-and-andy-thesen/)
