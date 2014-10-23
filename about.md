@@ -18,4 +18,4 @@ By pooling small orders into big print runs, we reduce unit costs and save every
 
 ## Behind the scenes
 
-The Open Press concept was developed by Mark Horner and team at [Siyavula](http://siyavula.com) and the [Shuttleworth Foundation](http://shuttleworthfoundation.org). It is an [Electric Book Works](http://electricbookworks.com) project.
+The original Open Press concept was developed by Mark Horner and team at [Siyavula](http://siyavula.com) and the [Shuttleworth Foundation](http://shuttleworthfoundation.org). It is an [Electric Book Works](http://electricbookworks.com) project led by [Arthur Attwell](http://arthurattwell.com).

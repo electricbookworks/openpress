@@ -14,7 +14,9 @@ body {
 	font-family: "Source Sans Pro", sans-serif;
 	font-size: 1.2em;
 	font-weight: 300;
-	line-height: 140%;
+	line-height: 150%;
+	padding: 0;
+	margin: 0;
 }
 #wrapper{
 	clear: both;
@@ -34,6 +36,10 @@ body {
 	margin: auto;
 	font-size: 0.8em;
 	color: grey;
+}
+#footer li {
+	float: left;
+	margin: 0 1.5em 0 0;
 }
 
 /* 
@@ -106,6 +112,12 @@ p, ul, ol, blockquote, dl {
 }
 p {
 	margin: 0 0 0.5em 0;
+}
+p .highlight {
+	background-color: #f2f2f2;
+	padding: 0.075em 0.2em;
+	font-style: inherit;
+	border-radius: 0.01em;
 }
 li p {
 	margin: 0;
