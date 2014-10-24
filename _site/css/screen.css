@@ -66,6 +66,12 @@ body {
 	opacity: 0.9;
 	border-bottom: 1px solid #d9d9d9;
 }
+	@media only screen 
+	and (max-width : 420px) {
+		#nav-bar {
+			height:3.5em;
+		}
+	}
 #nav-bar ul {
 	list-style-type: none;
 	padding: 0;
@@ -83,6 +89,8 @@ body {
 }
 a.nav-bar-home {
 	text-decoration: none;
+/*	font-weight: bold;*/
+	color: #333333;
 }
 a.nav-bar-home:hover {
 	color: grey;
@@ -110,6 +118,13 @@ h1 {
 	line-height: 100%;
 	margin: 1.5em 0 1em 0;
 }
+	@media only screen 
+	and (max-width : 950px) {
+		h1 {
+			font-size: 2em;
+			max-width: 100%;
+		}
+	}
 h2 {
 	margin: 1.5em 0 0.5em 0;
 	padding-top: 0.5em;
