@@ -1,10 +1,12 @@
 ---
-title: Membership
+title: Join
 layout: default
 ---
 
-# Membership
+# Join us
 
+To join Open Press as a member, please fill in your details here and click 'Join'. We&nbsp;recommend reading through the [terms](#membership-terms) below first, so that you understand how Open Press works. If you ever join a print run or propose a book to print, these terms govern your responsibilities.
+  
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
 <form action="//ebw.us1.list-manage.com/subscribe/post?u=e34aabe677418c25170d1f145&amp;id=5d125cd584" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -63,6 +65,8 @@ layout: default
 </div>
 
 <!--End mc_embed_signup-->
+
+## Next step
 
 We'll contact you shortly. To confirm your membership, we will ask you to send us a copy of these terms signed by an authorised representative of your organisation. Your membership is official when your organisation's name is added to our [public list of members](#footer).
 
