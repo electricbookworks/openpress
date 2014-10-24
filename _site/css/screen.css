@@ -261,3 +261,6 @@ input.button {
 	margin: 1em 0 2em 10em;
 	font-weight: 600;
 }
+#mc_embed_signup input.button {
+	width: 5.8em;
+}
