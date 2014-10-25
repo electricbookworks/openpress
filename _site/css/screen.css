@@ -67,7 +67,7 @@ body {
 	border-bottom: 1px solid #d9d9d9;
 }
 	@media only screen 
-	and (max-width : 320px) {
+	and (max-width : 275px) { /* Makes space for menu to break to a second line on very narrow screens; adjust as menu items change. */
 		#nav-bar {
 			height:3.5em;
 		}
