@@ -7,7 +7,9 @@ layout: default
 
 Great! You're subscribed to our members' mailing list.
 
-Next, we'll rubber-stamp your membership and be in touch to ask you to [send us](contact) a copy of the [membership terms](terms#membership-terms) signed by an authorised representative of your organisation.
+Next, we'll rubber-stamp your membership and be in touch.
+
+> We'll need a copy of the [membership terms](terms#membership-terms) signed by an authorised representative of your organisation.
 
 Your membership is official when your organisation's name is added to our [public list of members](#footer).
 
