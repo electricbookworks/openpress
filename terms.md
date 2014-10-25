@@ -66,10 +66,6 @@ To join Open Press as a member, please fill in your details here and click 'Join
 
 <!--End mc_embed_signup-->
 
-## Next step
-
-We'll contact you shortly. To confirm your membership, we will ask you to send us a copy of these terms signed by an authorised representative of your organisation. Your membership is official when your organisation's name is added to our [public list of members](#footer).
-
 ## Membership terms
 
 These terms govern the rights and responsibilities of members and Open Press. They were last updated on *23 October 2014*{:.highlight}.
