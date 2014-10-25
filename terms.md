@@ -105,7 +105,7 @@ Open Press will do everything in its power to ensure books are delivered on time
 
 ### Privacy
 
-Open Press will gather data about users, including its members, on its website in the normal course of doing business online. How Open Press uses that data is described separately in its privacy policy.
+Open Press will gather data about users, including its members, on its website in the normal course of doing business online. Open Press will not share any identifiable or contact information with third parties, but will collect usage data to analyse website usage.
 
 ### Warranty disclaimer and limitation of liability
 
