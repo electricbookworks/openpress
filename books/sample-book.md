@@ -7,20 +7,26 @@ layout: default
 
 This is a short blurb about the book. It includes links to online sources about the book, including to the original PDFs. Where possible, we do not host the files or detailed metadata, but point to the original source.
 
+> *	Current price: R30
+> * Minimum order: 10 copies
+> *	Green-light target: 1000 copies
+> *	Deadline: 31 Dec 2014
+{:.shout}
+
 ## Status
 
-*	Copies ordered: 10
-*	Copies to reach next threshhold: 990
+Copies ordered to date: 10
 
-## Prices
-
-| Total ordered | Price |
+| Thresholds    | Price |
 |---------------|-------|
-| 1000          | R30   |
-| 2000          | R25   |
-| 5000          | R15   |
+| 1000 copies   | R30   |
+| 2000 copies   | R25   |
+| 5000 copies   | R15   |
 
-Note: Delivery is charged separately based on your location and order quantity.
+*	Estimated delivery date: 28 Feb 2015.
+*	Delivery is charged for separately based on your location and order quantity.
+
+<iframe src="https://docs.google.com/spreadsheets/d/1ULiquaDnccejCxlM-3OhcMexNfN7c9WzXKhSXUtoQCQ/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" height="400" width="100%"></iframe>
 
 ## Printing specs
 

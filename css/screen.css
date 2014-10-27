@@ -49,9 +49,6 @@ body {
 #footer a {
 	color: inherit;
 }
-#footer strong {
-	font-weight: 400;
-}
 
 /* 
  * Nav bar including 'Home' button for chapter and frontmatter layouts
@@ -169,6 +166,10 @@ blockquote p {
 	margin: 0;
 	padding: 0;
 }
+blockquote ul, blockquote ol {
+	margin: 0;
+	padding:  0 0 0 0.5em;
+}
 li blockquote {
 	margin: 1em 0;
 }
@@ -209,6 +210,9 @@ a.button {
 }
 a.button:hover {
 	background-color: silver;
+}
+strong {
+	font-weight: 400;
 }
 
 /*

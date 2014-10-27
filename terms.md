@@ -88,7 +88,7 @@ Open Press may suspend or cancel a member's membership without notice for action
 
 Open Press pools members' purchase orders for books into large print runs to reduce overall unit costs. Each member who joins a given print-run pool does so by placing an order for a quantity of books at a per-copy price. This order is a binding commitment to purchase the books. As more members join the print run, everyone's unit price drops as print-run threshholds are reached. Open Press builds its management fee into the total cost of each print-run.
 
-1.	Open Press advertises the details of a given book, prices and print-run threshholds (e.g. R100/1000 copies; R80/1500 copies), a deadline for orders, and estimated delivery dates.
+1.	Open Press advertises the details of a given book, prices and print-run threshholds (e.g. R100/1000 copies; R80/1500 copies), minimum order quantities, a deadline for orders, and estimated delivery dates.
 1.	Members will place official, binding purchase orders for a quantity of books. 
 1.	If total order quantities are too low to meet the lowest print-run threshold, Open Press may choose to postpone the print deadline to allow for more bids or propose a higher price for members to consider.
 1.	Once enough members have placed enough orders for Open Press to print the lowest print-run threshold, and the ordering deadline is reached, Open Press will invoice the bidders at the relevant threshhold price.
