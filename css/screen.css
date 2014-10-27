@@ -211,6 +211,12 @@ a.button {
 a.button:hover {
 	background-color: silver;
 }
+.button-para {
+	margin: 1.5em 0 0.5em 0;
+}
+.button-para a.button {
+	display: inline;
+}
 strong {
 	font-weight: 400;
 }
