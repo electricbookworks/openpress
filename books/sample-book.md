@@ -7,10 +7,10 @@ layout: default
 
 This is a short blurb about the book. It includes links to online sources about the book, including to the original PDFs. Where possible, we do not host the files or detailed metadata, but point to the original source.
 
-> *	Current price: R30
-> * Minimum order: 10 copies
-> *	Green-light target: 1000 copies
-> *	Deadline: 31 Dec 2014
+> Current price: R30  
+> Minimum order: 10 copies  
+> Target: 1000 copies  
+> Deadline: 31 Dec 2014
 {:.shout}
 
 ## Status
