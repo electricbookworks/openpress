@@ -14,6 +14,6 @@ Traditionally, publishers have to guess how many books to print, put the copies 
 
 By pooling many orders into single print runs, we reduce unit costs and save everyone money. Open Press is great for schools, colleges, non-profits and businesses who need to order multiple copies of books.
 
-## Behind the scenes
+## Background
 
-The original Open Press concept was developed by Mark Horner and the teams at [Siyavula](http://siyavula.com) and the [Shuttleworth Foundation](http://shuttleworthfoundation.org). It is now an [Electric Book Works](http://electricbookworks.com) project led by [Arthur Attwell](http://arthurattwell.com).
+Open Press is based on an [open concept](https://manypossibilities.net/2008/04/open-concept/) [developed by Steve Song and Mark Horner](https://manypossibilities.net/2008/04/building-the-demand-in-print-on-demand/) at the [Shuttleworth Foundation](http://shuttleworthfoundation.org). It is now an [Electric Book Works](http://electricbookworks.com) project led by [Arthur Attwell](http://arthurattwell.com).

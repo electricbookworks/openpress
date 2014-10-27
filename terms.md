@@ -99,7 +99,7 @@ Open Press pools members' purchase orders for books into large print runs to red
 
 Open Press commits to produce high-quality, industry-standard editions, but all decisions about production quality, processes and providers (e.g. printers) are at the sole discretion of Open Press. It is in Open Press's best interests to consult its members on these matters before making final decisions.
 
-For deliveries within South Africa, there is no separate charge for delivery. Delivery costs are covered by members' bid prices. For deliveries outside South Africa, members will be invoiced for delivery on a case-by-case basis.
+Members will be charged separately for delivery, based on location and size of order.
 
 Open Press will do everything in its power to ensure books are delivered on time; but printing and shipping is unpredictable, so Open Press does not accept any liability for losses or damages resulting from late deliveries. Members will be kept informed regularly about the status of their orders.
 

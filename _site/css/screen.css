@@ -183,13 +183,6 @@ dt {
 }
 dd {
 }
-table {
-	border-collapse: collapse;
-}
-th, td {
-	border: 1px solid #ccc;
-	padding: 0.5em;
-}
 pre, code {
 	font-family: monospace;
 	white-space: pre-wrap;
@@ -216,6 +209,28 @@ a.button {
 }
 a.button:hover {
 	background-color: silver;
+}
+
+/*
+ * Tables
+ */
+
+table {
+	border-collapse: collapse;
+	margin: 1em 0 1em 0;
+}
+th {
+	font-weight: 400;
+}
+th, td {
+	border-top: 1px solid #f9f9f9;
+	border-bottom: 1px solid #f9f9f9;
+	border-right: none;
+	border-left: none;
+	padding: 0.1em 0.5em 0.1em 0.1em;
+}
+td p {
+	margin: 0;
 }
 
 /*
