@@ -8,7 +8,7 @@ layout: default
 When you print books, the more you print the cheaper it gets per copy. If you need copies of a book, Open Press lets you join together with others to print one big print run.
 
 *	Our **members propose books** they want to print together.
-*	We work out print costs to get a **minimum print run and a price per copy**. For instance, 1000 copies at R30 each. We also work out lower prices at higher print runs.
+*	We work out print costs to get a **minimum print run and a price per copy**. For instance, 1000 copies at R30 each. We also work out lower prices at higher print runs. [See an imaginary sample here]({{ site.baseurl }}/books/sample-book).
 *	**Members place orders** for copies before the ordering deadline.
 *	If we have enough orders for our minimum print run by the deadline, **we invoice members and go to print**.
 *	If we get enough orders to hit higher print-run targets, we reduce the price for everyone. **So members encourage others to order, too.**
