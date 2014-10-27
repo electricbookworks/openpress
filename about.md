@@ -14,7 +14,7 @@ When you print books, the more you print the cheaper it gets per copy. If you ne
 *	If we get enough orders to hit higher print-run targets, we reduce the price for everyone. **So members encourage others to order, too.**
 *	**Everyone pays the same low price.**
 
-You must be a member to participate. [Apply to join here](/terms).
+You must be a member to participate. [Apply to join here]({{ site.baseurl }}/terms).
 
 # Why
 
@@ -24,7 +24,7 @@ Traditionally, publishers have to guess how many books to print, put the copies 
 
 Open Press is great for schools, colleges, non-profits and businesses who need to order multiple copies of books.
 
-While focused on open-licensed books, Open Press also works with publishers to aggregate orders for closed content. [Contact us](/contact) to discuss your project.
+While focused on open-licensed books, Open Press also works with publishers to aggregate orders for closed content. [Contact us]({{ site.baseurl }}/contact) to discuss your project.
 
 # Who
 
