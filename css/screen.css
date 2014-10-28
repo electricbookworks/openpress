@@ -68,6 +68,9 @@ body {
 		#nav-bar {
 			height:3.5em;
 		}
+		h1 {
+			margin-top: 2em;
+		}
 	}
 #nav-bar ul {
 	list-style-type: none;
