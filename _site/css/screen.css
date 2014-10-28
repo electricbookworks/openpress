@@ -63,15 +63,6 @@ body {
 	opacity: 0.9;
 	border-bottom: 1px solid #d9d9d9;
 }
-	@media only screen 
-	and (max-width : 340px) { /* Makes space for menu to break to a second line on very narrow screens; adjust as menu items change. */
-		#nav-bar {
-			height:3.5em;
-		}
-		h1 {
-			margin-top: 2em;
-		}
-	}
 #nav-bar ul {
 	list-style-type: none;
 	padding: 0;
@@ -79,12 +70,6 @@ body {
 	max-width: 960px;
 	text-align: center;
 }
-	@media only screen 
-	and (max-width : 986px) {
-		#nav-bar ul {
-			padding:0 0 0 0.3em;
-		}
-	}
 #nav-bar li {
 	font-family: "Open Sans Condensed";
 	float: left;
@@ -124,13 +109,6 @@ h1 {
 	line-height: 100%;
 	margin: 1.5em 0 1em 0;
 }
-	@media only screen 
-	and (max-width : 950px) {
-		h1 {
-			font-size: 2em;
-			max-width: 100%;
-		}
-	}
 h2 {
 	margin: 1.5em 0 0.5em 0;
 	padding-top: 0.5em;
@@ -216,6 +194,7 @@ a.button:hover {
 }
 .button-para {
 	margin: 1.5em 0 0.5em 0;
+	line-height: 200%;
 }
 .button-para a.button {
 	display: inline;
@@ -298,4 +277,31 @@ input.button {
 }
 #mc_embed_signup {
 	margin: 2em 0 0 0;
+}
+
+/*
+ * Media queries for smaller screens
+ */
+
+@media only screen 
+and (max-width : 950px) {
+	h1 {
+		font-size: 2em;
+		max-width: 100%;
+	}
+}
+@media only screen 
+and (max-width : 986px) {
+	#nav-bar ul {
+		padding:0 0 0 0.3em;
+	}
+}
+@media only screen 
+and (max-width : 390px) { /* Makes space for menu to break to a second line on very narrow screens; adjust as menu items change. */
+	#nav-bar {
+		height:3.5em;
+	}
+	h1 {
+		margin-top: 2em;
+	}
 }

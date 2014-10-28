@@ -9,5 +9,5 @@ Open Press provides *high-quality print editions*{:.highlight} of [open-licensed
 
 Great for *schools, colleges and non-profits.*{:.highlight} [Become a member]({{ site.baseurl }}/terms) to join print runs and add new books to our catalogue.
 
-[Join Open Press]({{ site.baseurl }}/terms){:.button}&emsp;[**How it works**]({{ site.baseurl }}/about)
+[Join Open Press]({{ site.baseurl }}/terms){:.button}&emsp;[**How&nbsp;it&nbsp;works**]({{ site.baseurl }}/about)
 {:.button-para}
