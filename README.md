@@ -1,3 +1,3 @@
 # Open Press
 
-Prototype Open Press website. [See the site here](http://electricbookworks.github.io/openpress/).
+[Open Press](http://openpress.co.za) staging site.
