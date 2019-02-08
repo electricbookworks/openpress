@@ -1,11 +1,4 @@
 name: "Open Press"
-description: "Aggregated print runs"
-
-url: http://localhost:4000
+description: "You order. They order. We all print together."
 baseurl: /openpress
-
-paginate: 10
-
-markdown: kramdown
 permalink: pretty
-highlighter: pygments
